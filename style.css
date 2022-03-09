@@ -1,0 +1,24 @@
+p{
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    display: block;
+    color: #6c757d
+}
+.container-fluid{
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    display: block;
+    font-family: "papyrus",fantasy;
+    font-size: 20px;
+} 
+.card-text{
+    width: 300px;
+    font-family: "papyrus",fantasy;
+
+}
+.col{
+    font-family: "papyrus",fantasy;
+
+}
